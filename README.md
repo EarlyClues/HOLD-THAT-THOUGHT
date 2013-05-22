@@ -1,7 +1,7 @@
 HOLD-THAT-THOUGHT
 =================
 
-A program for putting a temporary hold on a particular item in one's thoughtstream, with an automated reminder to return later. 
+A program for putting a temporary hold on a particular item in one's thoughtstream, with an automated reminder to return held items into awareness later. 
 
 BASIC POSSIBLE CODE
 ===================
