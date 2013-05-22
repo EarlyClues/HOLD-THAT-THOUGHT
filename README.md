@@ -5,6 +5,7 @@ A program for putting a temporary hold on a particular item in one's thoughtstre
 
 BASIC POSSIBLE CODE
 ===================
+```
 
 1 RUN AS OPENQNL.
 2 MAKE PROGRAM AVAILABLE IN THOUGHTSTREAM.
@@ -14,3 +15,4 @@ BASIC POSSIBLE CODE
 6 MAKE HELD ITEMS AVAILABLE FOR FILE EXPORT ON REQUEST.
 
 /* ASK THIS IN THE NAME OF THE GODS OF MEMORY & EXPRESSION. */
+```
